@@ -1,0 +1,21 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Virtual environments
+venv/
+env/
+.env
+
+# Data and large files (Optional but recommended for GitHub)
+fer2013/
+fer2013.zip
+model_weights.h5
+
+# OS generated files
+.DS_Store
+Thumbs.db
